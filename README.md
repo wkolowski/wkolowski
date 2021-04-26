@@ -9,12 +9,16 @@
 ### Theses
 
 * BSc Thesis: Formally verified functional programming with monads in Coq ([original repo](https://github.com/wkolowski/coq-mtl))
-* MSc Thesis: Formally verified functional algorithms and data structures in Coq (work in progress, [see the original repo for updates](https://github.com/wkolowski/RandomCoqCode/tree/master/Thesis))
+
+* MSc Thesis: Formally verified functional algorithms in Coq ([original repo](https://github.com/wkolowski/coq-algs/tree/master/Thesis))
 
 ### Seminar talk slides
 
 * Algebraic Effects vs Monads in theory and practice ([original repo](https://github.com/wkolowski/AlgEff))
-* Coinduction and Topology: an (un)expected connection (work in progress, [see the original repo for updates](https://github.com/wkolowski/Seminar-Bisimulation-and-Coinduction))
+
+* Coinduction and Topology: an (un)expected connection ([original repo](https://github.com/wkolowski/Seminar-Bisimulation-and-Coinduction))
+
+* Dependent Types and Theorem Proving (work in progress, [original repo here](https://github.com/wkolowski/Dependent-Types-and-Theorem-Proving))
 
 ### Seminar talk notes
 
@@ -35,6 +39,10 @@
 * Logika intuicjonistyczna ([oryginalne repo](https://github.com/wkolowski/Seminarium-z-logik-nieklasycznych))
 
 * Logika obliczeń, niedokończone ([oryginalne repo](https://github.com/wkolowski/Seminarium-z-logik-nieklasycznych))
+
+### (Interaktywne) notatki
+
+* [Coq: jak udowodnić, że nasz program działa poprawnie](https://wkolowski.github.io/Dni-Otwarte-2021) - kliknij aby przeczytać, [oryginalne repo tutaj](https://github.com/wkolowski/Dni-Otwarte-2021)
 
 ### Prace dyplomowe
 
