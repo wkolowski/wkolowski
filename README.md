@@ -47,6 +47,7 @@
 ### Prace dyplomowe
 
 * Slajdy z obrony pracy inż. ([oryginalne repo](https://github.com/wkolowski/coq-mtl))
+* Slajdy z obrony pracy mag. ([oryginalne repo](https://github.com/wkolowski/coq-algs/tree/master/Thesis))
 
 ### Teksty humanistyczne
 
