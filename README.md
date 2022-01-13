@@ -1,24 +1,24 @@
-# All my stuffs / wszystkie moje rzeczy
+# Map of all my stuffs / Mapa wszystkich moich rzeczy
 
-*EN*: This repo contains all the material I have written so far -- books, seminar notes and talk slides (I tend to treat slides just like ordinary notes) and so on. Some of these are in English, while others are in Polish. For PDFs there are files in the repo, whereas for web-based things there are links. I also point to original repos (where you can read some descriptions) to create a kind of map of my GitHub repos.
+*EN*: Below is a map of my most interesting writings -- books, seminar notes, talk slides (I tend to treat slides just like ordinary notes) and so on. Some of these are in English, while others are in Polish. There are also some links to my most interesting repos.
 
-*PL*: W tym repozytorium są wszystkie rzeczy, które dotychczas wyprodukowałem -- książki, notatki na seminara i slajdy do wystąpień (slajdy traktuję jak zwykłe notatki, więc jest co czytać) etc. Niektóre są po angielsku, inne po polsku. PDFy wrzucam bezpośrednio jako pliki, a do webowych rzeczy linkuję. Linkuję też do oryginalnych repozytoriów (gdzie można przeczytać jakieś opisy), żeby powstało coś w rodzaju mapy moich GitHubowych repozytoriów.
+*PL*: Poniżej jest mapa moich najbardziej interesujących tekstów -- książek, notatek na seminara, slajdów do wystąpień (slajdy traktuję jak zwykłe notatki), etc. Niektóre są po angielsku, a inne po polsku. Jest też trochę linków do moich najbardziej interesujących repozytoriów.
 
 ## In English
 
 ### Theses
 
-* MSc Thesis: Formally verified functional algorithms in Coq (2021, [repo](https://github.com/wkolowski/coq-algs/tree/master/Thesis))
+* MSc Thesis: [Formally verified functional algorithms in Coq](MScThesis.pdf) (2021, [repo](https://github.com/wkolowski/coq-algs/tree/master/Thesis))
 
-* BSc Thesis: Formally verified functional programming with monads in Coq (2019, [repo](https://github.com/wkolowski/coq-mtl))
+* BSc Thesis: [Formally verified functional programming with monads in Coq](BScThesis.pdf) (2019, [repo](https://github.com/wkolowski/coq-mtl))
 
 ### Seminar talk slides
 
-* Introduction to Dependent Types in F* (2021, [repo](https://github.com/wkolowski/Dependent-Types-and-Theorem-Proving))
+* [Introduction to Dependent Types in F*](IntroductionToDependentTypes.pdf) (2021, [repo](https://github.com/wkolowski/Dependent-Types-and-Theorem-Proving))
 
-* Coinduction and Topology: an (un)expected connection (2020, [repo](https://github.com/wkolowski/Seminar-Bisimulation-and-Coinduction))
+* [Coinduction and Topology: an (un)expected connection](CoinductionInTypeTheory.pdf) (2020, [repo](https://github.com/wkolowski/Seminar-Bisimulation-and-Coinduction))
 
-* Algebraic Effects vs Monads in theory and practice (2018, [repo](https://github.com/wkolowski/AlgEff))
+* [Algebraic Effects vs Monads in theory and practice](AlgebraicEffectsVsMonads.pdf) (2018, [repo](https://github.com/wkolowski/AlgEff))
 
 ### Seminar talk notes
 
@@ -32,7 +32,7 @@
 
 ### Other
 
-* [Type Theory Wishlist](https://github.com/wkolowski/Type-Theory-Wishlist) (2021) - a repo in which I'm trying to invent Frankenstein Type Theory which has all the good things and none of the bad things.
+* [Type Theory Wishlist](https://github.com/wkolowski/Type-Theory-Wishlist) (2021-now) - a repo in which I'm trying to invent Frankenstein Type Theory which has all the good things and none of the bad things.
 
 * [Comparison of Proof Assistants](https://github.com/wkolowski/Comparison-of-Proof-Assistants) - a repo in which I collect code written when learning about proof assistants other than Coq.
 
@@ -46,13 +46,13 @@
 
 ### Slajdy z wystąpień na seminariach
 
-* Topologiczna analiza danych (2020, [repo](https://github.com/wkolowski/Topologiczna-Analiza-Danych))
+* [Topologiczna analiza danych](TopologicznaAnalizaDanych.pdf) (2020, [repo](https://github.com/wkolowski/Topologiczna-Analiza-Danych))
 
-* Homotopiczna teoria typów (2019, [repo](https://github.com/wkolowski/LiTT))
+* [Homotopiczna teoria typów](HomotopicznaTeoriaTypów.pdf) (2019, [repo](https://github.com/wkolowski/LiTT))
 
-* Logika obliczeń, niedokończone (2018, [repo](https://github.com/wkolowski/Seminarium-z-logik-nieklasycznych))
+* [Logika obliczeń, niedokończone](LogikaObliczeń.pdf) (2018, [repo](https://github.com/wkolowski/Seminarium-z-logik-nieklasycznych))
 
-* Logika intuicjonistyczna (2018, [repo](https://github.com/wkolowski/Seminarium-z-logik-nieklasycznych))
+* [Logika intuicjonistyczna](LogikaIntuicjonistyczna.pdf) (2018, [repo](https://github.com/wkolowski/Seminarium-z-logik-nieklasycznych))
 
 ### (Interaktywne) notatki
 
@@ -60,9 +60,9 @@
 
 ### Slajdy do prac dyplomowych
 
-* Slajdy z obrony pracy mag. (2021, [repo](https://github.com/wkolowski/coq-algs/tree/master/Thesis))
+* [Slajdy z obrony pracy mag.](SlajdyObronaMag.pdf) (2021, [repo](https://github.com/wkolowski/coq-algs/tree/master/Thesis))
 
-* Slajdy z obrony pracy inż. (2019, [repo](https://github.com/wkolowski/coq-mtl))
+* [Slajdy z obrony pracy inż.](SlajdyObronaInż.pdf) (2019, [repo](https://github.com/wkolowski/coq-mtl))
 
 ### Teksty humanistyczne
 
