@@ -16,7 +16,9 @@
 
 * [Introduction to Dependent Types in F*](IntroductionToDependentTypes.pdf) (2021, [repo](https://github.com/wkolowski/Dependent-Types-and-Theorem-Proving))
 
-* [Coinduction and Topology: an (un)expected connection](CoinductionInTypeTheory.pdf) (2020, [repo](https://github.com/wkolowski/Seminar-Bisimulation-and-Coinduction))
+* [Coinduction and Topology: an (un)expected connection](CoinductionAndTopology.pdf) (2020, [repo](https://github.com/wkolowski/Seminar-Bisimulation-and-Coinduction))
+
+* [Coinduction in Type Theory: a quick introduction](CoinductionInTypeTheory.pdf) (2020/2022, [repo](https://github.com/wkolowski/Seminar-Bisimulation-and-Coinduction)) - a self-contained version of the above which only deals with the basics of coinduction and omits the topology part, with extra exercises in Coq.
 
 * [Algebraic Effects vs Monads in theory and practice](AlgebraicEffectsVsMonads.pdf) (2018, [repo](https://github.com/wkolowski/AlgEff))
 
