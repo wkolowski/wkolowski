@@ -32,11 +32,15 @@
 
 * [Category Theory in Coq](https://github.com/wkolowski/CoqCat) (2016)
 
-### Other
+### Research notes
 
 * [Type Theory Wishlist](https://github.com/wkolowski/Type-Theory-Wishlist) (2021-now) - a repo in which I'm trying to invent Frankenstein Type Theory which has all the good things and none of the bad things.
 
-* [Comparison of Proof Assistants](https://github.com/wkolowski/Comparison-of-Proof-Assistants) - a repo in which I collect code written when learning about proof assistants other than Coq.
+* [My research notes on Homotopy Type Theory](HoTTResearchNotes.pdf) (2020-now, [repo](https://github.com/wkolowski/HoTT/tree/master/Notes)) - my investigation of searchable and separated types in HoTT, inspired by Martin Escardó's "Type Topology".
+
+### Other
+
+* [Comparison of Proof Assistants](https://github.com/wkolowski/Comparison-of-Proof-Assistants) - a repo in which I collect code written when learning about proof assistants other than Coq (most recently it's Lean 4).
 
 * [My NixOS config](https://github.com/wkolowski/nixos-config)
 
