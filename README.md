@@ -8,19 +8,19 @@
 
 ### Theses
 
-* MSc Thesis: [Formally verified functional algorithms in Coq](MScThesis.pdf) (2021, [repo](https://github.com/wkolowski/coq-algs/tree/master/Thesis))
+* MSc Thesis: [Formally verified functional algorithms in Coq](https://github.com/wkolowski/coq-algs/blob/master/Thesis/Thesis.pdf) (2021, [repo](https://github.com/wkolowski/coq-algs/tree/master/Thesis))
 
-* BSc Thesis: [Formally verified functional programming with monads in Coq](BScThesis.pdf) (2019, [repo](https://github.com/wkolowski/coq-mtl))
+* BSc Thesis: [Formally verified functional programming with monads in Coq](https://github.com/wkolowski/coq-mtl/blob/master/Thesis/Thesis.pdf) (2019, [repo](https://github.com/wkolowski/coq-mtl))
 
 ### Seminar talk slides
 
-* [Introduction to Dependent Types in F*](IntroductionToDependentTypes.pdf) (2021, [repo](https://github.com/wkolowski/Dependent-Types-and-Theorem-Proving))
+* [Introduction to Dependent Types in F*](https://github.com/wkolowski/Dependent-Types-and-Theorem-Proving/blob/master/Slides.pdf) (2021, [repo](https://github.com/wkolowski/Dependent-Types-and-Theorem-Proving))
 
-* [Coinduction and Topology: an (un)expected connection](CoinductionAndTopology.pdf) (2020, [repo](https://github.com/wkolowski/Seminar-Bisimulation-and-Coinduction))
+* [Coinduction and Topology: an (un)expected connection](https://github.com/wkolowski/Seminar-Bisimulation-and-Coinduction/blob/master/TalkSlides.pdf) (2020, [repo](https://github.com/wkolowski/Seminar-Bisimulation-and-Coinduction))
 
-* [Coinduction in Type Theory: a quick introduction](CoinductionInTypeTheory.pdf) (2020/2022, [repo](https://github.com/wkolowski/Seminar-Bisimulation-and-Coinduction)) - a self-contained version of the above which only deals with the basics of coinduction and omits the topology part, with extra exercises in Coq.
+* [Coinduction in Type Theory: a quick introduction](https://github.com/wkolowski/Seminar-Bisimulation-and-Coinduction/blob/master/CoinductionInTypeTheory.pdf) (2020/2022, [repo](https://github.com/wkolowski/Seminar-Bisimulation-and-Coinduction)) - a self-contained version of the above which only deals with the basics of coinduction and omits the topology part, with extra exercises in Coq.
 
-* [Algebraic Effects vs Monads in theory and practice](AlgebraicEffectsVsMonads.pdf) (2018, [repo](https://github.com/wkolowski/AlgEff))
+* [Algebraic Effects vs Monads in theory and practice](https://github.com/wkolowski/AlgEff/blob/master/Slides.pdf) (2018, [repo](https://github.com/wkolowski/AlgEff))
 
 ### Seminar talk notes
 
@@ -36,7 +36,7 @@
 
 * [Type Theory Wishlist](https://github.com/wkolowski/Type-Theory-Wishlist) (2021-now) - a repo in which I'm trying to invent Frankenstein Type Theory which has all the good things and none of the bad things.
 
-* [My research notes on Homotopy Type Theory](HoTTResearchNotes.pdf) (2020-now, [repo](https://github.com/wkolowski/HoTT/tree/master/Notes)) - my investigation of searchable and separated types in HoTT, inspired by Martin Escardó's "Type Topology".
+* [My research notes on Homotopy Type Theory](https://github.com/wkolowski/HoTT/blob/master/Notes/HoTT.pdf) (2020-now, [repo](https://github.com/wkolowski/HoTT/tree/master/Notes)) - my investigation of searchable and separated types in HoTT, inspired by Martin Escardó's "Type Topology".
 
 ### Other
 
@@ -52,13 +52,11 @@
 
 ### Slajdy z wystąpień na seminariach
 
-* [Topologiczna analiza danych](TopologicznaAnalizaDanych.pdf) (2020, [repo](https://github.com/wkolowski/Topologiczna-Analiza-Danych))
+* [Topologiczna analiza danych](https://github.com/wkolowski/Topologiczna-Analiza-Danych/blob/master/TDA.pdf) (2020, [repo](https://github.com/wkolowski/Topologiczna-Analiza-Danych))
 
-* [Homotopiczna teoria typów](HomotopicznaTeoriaTypów.pdf) (2019, [repo](https://github.com/wkolowski/LiTT))
+* [Homotopiczna teoria typów](https://github.com/wkolowski/LiTT/blob/master/HoTT.pdf) (2019, [repo](https://github.com/wkolowski/LiTT))
 
-* [Logika obliczeń, niedokończone](LogikaObliczeń.pdf) (2018, [repo](https://github.com/wkolowski/Seminarium-z-logik-nieklasycznych))
-
-* [Logika intuicjonistyczna](LogikaIntuicjonistyczna.pdf) (2018, [repo](https://github.com/wkolowski/Seminarium-z-logik-nieklasycznych))
+* [Logika intuicjonistyczna](https://github.com/wkolowski/Seminarium-z-logik-nieklasycznych/blob/master/LogikaIntuicjonistyczna.pdf) (2018, [repo](https://github.com/wkolowski/Seminarium-z-logik-nieklasycznych))
 
 ### (Interaktywne) notatki
 
@@ -66,9 +64,9 @@
 
 ### Slajdy do prac dyplomowych
 
-* [Slajdy z obrony pracy mag.](SlajdyObronaMag.pdf) (2021, [repo](https://github.com/wkolowski/coq-algs/tree/master/Thesis))
+* [Slajdy z obrony pracy mag.](https://github.com/wkolowski/coq-algs/blob/master/Thesis/Defense/Slides.pdf) (2021, [repo](https://github.com/wkolowski/coq-algs/tree/master/Thesis))
 
-* [Slajdy z obrony pracy inż.](SlajdyObronaInż.pdf) (2019, [repo](https://github.com/wkolowski/coq-mtl))
+* [Slajdy z obrony pracy inż.](https://github.com/wkolowski/coq-mtl/blob/master/Thesis/Defense/Slides.pdf) (2019, [repo](https://github.com/wkolowski/coq-mtl))
 
 ### Teksty humanistyczne
 
